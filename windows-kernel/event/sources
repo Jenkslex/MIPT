@@ -1,0 +1,7 @@
+TARGETNAME=test1
+TARGETPATH=.
+TARGETTYPE=DRIVER
+
+SOURCES= \
+	driver.c 	\
+
